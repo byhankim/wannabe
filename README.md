@@ -24,3 +24,4 @@ no specific order by interest, difficulty
   - game
 - opencv
   - camera app
+- "인간의 욕심은 끝이 없고" auto generator
